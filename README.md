@@ -1,1 +1,0 @@
-# program-sederhana-python
